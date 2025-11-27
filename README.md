@@ -1,4 +1,4 @@
-# Agente Conversacional para Clínica Veterinaria Virtual "VetCare AI"**
+# Agente Conversacional para Clínica Veterinaria Virtual "VetCare AI"
 
 
 ### **1. Resumen Ejecutivo**
